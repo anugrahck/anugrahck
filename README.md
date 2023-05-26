@@ -1,6 +1,6 @@
 # Hi there, I'm Anugrah Cahya Kautsar - @anugrahck 👋
 ## About me:
-- 🌱 I’m currently I am currently final year student at the Sepuluh Nopember Institute of Technology (ITS) majoring in Information Systems
+- 🌱 I’m currently a final year student at the Sepuluh Nopember Institute of Technology (ITS) majoring in Information Systems
 - 🤔 I’m looking for suggestions for Website Development and UI/UX Design
 - 💬 Ask me about anything
 - 📫 How to reach me: anugrahck30@gmail.com
