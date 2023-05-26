@@ -7,7 +7,7 @@
 
 
 ## Work Experience:
-#### 1. [PT. Nusantara Infrastructure](https://nusantarainfrastructure.com/) | Database Programmer Intern | Jakarta `Feb'2022 - Jul 2022`
+#### 1. [PT. Nusantara Infrastructure](https://nusantarainfrastructure.com/) | Database Programmer Intern | Jakarta `Feb 2022-Jul 2022`
    - Create AR Invoice report and Detailed VAT Input Report using Oracle
    - Make company's business process flow which includes procurement, inventory, maintenance, and finance
 
